@@ -108,7 +108,8 @@ p {
     font-size: 36px;
   }
   .index-links {
-    justify-content: center;
-    margin-left: 80px;
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
 }
